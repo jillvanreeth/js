@@ -1,3 +1,5 @@
+// NAVIGATION IN A CIRCULAR FORM THAT YOU CAN SPIN
+
 ;var circleNav = (function(w, d, $, undefined) {
 
     'use strict';

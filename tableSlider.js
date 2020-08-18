@@ -1,3 +1,5 @@
+// WHOA A TABLE THAT TURNS INTO A SLIDER ON MOBILE
+
 ;var tableSlider = (function(w, d, $) {
 
 	var s = {},

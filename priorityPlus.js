@@ -1,6 +1,4 @@
-//=============================================================================================
-// - USED IN:
-// - molecules/nav/buNav
+// MENU FOR A LOT OF MENU ITEMS, IN CASE OF TOO MANY ITEMS, THE ITEMS GET HIDDEN UNDER A PLUS MENU ICON
 
 ;var priorityPlus = (function(w, d, $, undefined) {
 

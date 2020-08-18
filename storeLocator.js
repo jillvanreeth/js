@@ -1,3 +1,5 @@
+// STORE LOCATOR FOR GMAPS
+
 ;var storeLocator = (function(w, d, $) {
 
 	var map = {

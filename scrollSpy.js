@@ -15,8 +15,6 @@
             els.scrollSpyWrap = $('._scrollSpy__wrap');
             els.scrollSpyTrigger = $('._scrollSpy__trigger');
 
-           // if(mq.theSize() == 'xs') { return false; }
-
             clearTimeout(timer);
 
             setTimeout(function(){ init(); }, 200);

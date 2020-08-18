@@ -1,3 +1,5 @@
+// A TABLE THAT TURNS INTO SOMETHING MORE MOBILE FRIENDLY
+
 var responsiveTable = (function(w, d, undefined) {
 
   'use strict';

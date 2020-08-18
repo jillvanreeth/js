@@ -1,3 +1,5 @@
+// A STICKY HEADER
+
 ;var header = (function(w, d, undefined) {
 
   'use strict';
